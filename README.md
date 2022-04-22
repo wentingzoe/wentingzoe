@@ -12,9 +12,9 @@ A web developer passionate about digital transformation and building products th
 
 ### Connect with me:
 
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/squarepants2021)
-[![website](./img/twitter-dark.svg)](https://twitter.com/squarepants2021)
+<!-- &nbsp;&nbsp;
+[![website](./img/twitter-light.svg)]()
+[![website](./img/twitter-dark.svg)](https://twitter.com/) -->
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/wentingyong/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/wentingyong/)
