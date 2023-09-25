@@ -6,7 +6,7 @@ A web developer passionate about digital transformation and building products th
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for a web developer position! do reach, [email](mailto:ywtzeroing@outlook.com) me!
-- 🥅 2022 Goals: Learn more about web development, become a better developer & designer.
+- 🥅 2023 Goals: Learn more about web development, become a better developer & designer.
 - ⚡ Fun fact: I love to DIY and I'm a botanical gardener 🌱
 
 
